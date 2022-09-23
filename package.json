@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "12.3.0",
+    "@ant-design/icons": "^4.7.0",
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/client": "^3.4.1",
+    "@sanity/image-url": "^1.0.1",
+    "antd": "^4.23.2",
+    "dayjs": "^1.11.5",
+    "next": "^12.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-syntax-highlighter": "^15.5.0"
   },
   "devDependencies": {
     "eslint": "8.23.1",
